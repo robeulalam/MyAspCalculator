@@ -1,0 +1,16 @@
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\bin\Debug\net8.0-windows\MyAspCalculator.exe
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\bin\Debug\net8.0-windows\MyAspCalculator.deps.json
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\bin\Debug\net8.0-windows\MyAspCalculator.runtimeconfig.json
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\bin\Debug\net8.0-windows\MyAspCalculator.dll
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\bin\Debug\net8.0-windows\MyAspCalculator.pdb
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.csproj.GenerateResource.cache
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.AssemblyInfoInputs.cache
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.AssemblyInfo.cs
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.csproj.CoreCompileInputs.cache
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.dll
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\refint\MyAspCalculator.dll
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.pdb
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.genruntimeconfig.cache
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\ref\MyAspCalculator.dll
+E:\AspNetPractices\MyAspCalculator\MyAspCalculator\obj\Debug\net8.0-windows\MyAspCalculator.Form1.resources
