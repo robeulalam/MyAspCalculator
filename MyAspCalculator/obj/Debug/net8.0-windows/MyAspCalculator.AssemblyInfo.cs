@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAspCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d84c16bdfae9b8f68da41ccdf489ef60dd2e5ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAspCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAspCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

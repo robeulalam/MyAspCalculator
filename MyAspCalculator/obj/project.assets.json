@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AspNetPractices\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
+      "projectUniqueName": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
       "projectName": "MyAspCalculator",
-      "projectPath": "E:\\AspNetPractices\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
+      "projectPath": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\AspNetPractices\\MyAspCalculator\\MyAspCalculator\\obj\\",
+      "outputPath": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
