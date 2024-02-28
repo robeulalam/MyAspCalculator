@@ -16,7 +16,11 @@
       "projectUniqueName": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
       "projectName": "MyAspCalculator",
       "projectPath": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
+<<<<<<< HEAD
       "packagesPath": "C:\\Users\\Robin\\.nuget\\packages\\",
+=======
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+>>>>>>> f28d6824a502d99543aa0d2a73313f33d2c4ec17
       "outputPath": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [

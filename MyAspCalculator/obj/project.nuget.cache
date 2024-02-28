@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "sDe0KWehBoqErDyZCxg8Aq2Xwgmk/sirVaTmCYQJ9oFu5yoX6CeNWow2eNBgtDr9I2RZttviJ9dhRS/jxzwkBw==",
+=======
+  "dgSpecHash": "yelplzFrXJEUPlyeDDWsChAh7p528Qq5U1Wpgrr76WENafJzEKc0VwHX1gI1hwBEqKMh7OBcXObjEfVVpi+/Rg==",
+>>>>>>> f28d6824a502d99543aa0d2a73313f33d2c4ec17
   "success": true,
   "projectFilePath": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
   "expectedPackageFiles": [],
