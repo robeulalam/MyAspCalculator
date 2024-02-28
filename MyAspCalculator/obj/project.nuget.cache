@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uGE3RvG0w+3zVNQXT4tUa9DaiWO/BeiMpeMMs3qXWPsl8qBrUF2oP5lH5lQgn3REvoN5txh4Yi2Q0F9cyprvvA==",
+  "dgSpecHash": "sDe0KWehBoqErDyZCxg8Aq2Xwgmk/sirVaTmCYQJ9oFu5yoX6CeNWow2eNBgtDr9I2RZttviJ9dhRS/jxzwkBw==",
   "success": true,
-  "projectFilePath": "E:\\AspNetPractices\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
+  "projectFilePath": "E:\\GitHub\\MyAspCalculator\\MyAspCalculator\\MyAspCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
